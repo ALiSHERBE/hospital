@@ -1,0 +1,18 @@
+body {
+	background-color: #3df2bc;
+	font-size: 30px;
+}
+
+th, td {
+
+	padding: :10px;
+}
+
+th{
+	background: #606060;
+	color:white;
+}
+
+td{
+	background: green;
+}
